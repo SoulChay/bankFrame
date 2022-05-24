@@ -16,38 +16,37 @@
 
 ### 登录界面
 
-<img src="https://cdn.jsdelivr.net/gh/SoulChay/figureBed@master/blog/bankJframe1.png" align="center">
+<img src="http://fastly.jsdelivr.net/gh/SoulChay/figureBed/depository/bankJframe/bankJframe1.png" align="center">
 
 ### 注册界面
 
-<img src="https://cdn.jsdelivr.net/gh/SoulChay/figureBed@master/blog/bankJframe2.png" align="center">
+<img src="http://fastly.jsdelivr.net/gh/SoulChay/figureBed/depository/bankJframe/bankJframe2.png" align="center">
 
 ### 服务主界面
 
-<img src="https://cdn.jsdelivr.net/gh/SoulChay/figureBed@master/blog/bankJframe3.png" align="center">
-
+<img src="http://fastly.jsdelivr.net/gh/SoulChay/figureBed/depository/bankJframe/bankJframe3.png" align="center">
 
 
 ### 部分功能展示（存款+ 销户）
 
 #### 存款
 
-<img src="https://cdn.jsdelivr.net/gh/SoulChay/figureBed@master/blog/bankJframe4.png" align="center">
+<img src="http://fastly.jsdelivr.net/gh/SoulChay/figureBed/depository/bankJframe/bankJframe4.png" align="center">
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/SoulChay/figureBed@master/blog/bankJframe5.png" align="center">
+<img src="http://fastly.jsdelivr.net/gh/SoulChay/figureBed/depository/bankJframe/bankJframe5.png" align="center">
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/SoulChay/figureBed@master/blog/bankJframe6.png" align="center">
+<img src="http://fastly.jsdelivr.net/gh/SoulChay/figureBed/depository/bankJframe/bankJframe6.png" align="center">
 
 
 
 #### 销户
 
-<img src="https://cdn.jsdelivr.net/gh/SoulChay/figureBed@master/blog/bankJframe7.png" align="center">
+<img src="http://fastly.jsdelivr.net/gh/SoulChay/figureBed/depository/bankJframe/bankJframe7.png" align="center">
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/SoulChay/figureBed@master/blog/bankJframe8.png" align="center">
+<img src="http://fastly.jsdelivr.net/gh/SoulChay/figureBed/depository/bankJframe/bankJframe8.png" align="center">
